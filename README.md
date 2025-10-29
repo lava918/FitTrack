@@ -71,7 +71,4 @@ vite.config.ts
 * Push to your branch: `git push origin feature/YourFeature`
 * Open a Pull Request and describe the changes made.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
